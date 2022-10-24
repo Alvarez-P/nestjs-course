@@ -1,15 +1,14 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo.svg" width="100" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank">
+    <img src="https://nestjs.com/img/logo-small.svg" alt="Nest Logo">
+  </a>
 </p>
 <div align="center">
   <h3>NESTJS</h3>
-  <p>Introduction Course
-    <br />
-    <a href="https://docs.nestjs.com/"><strong>Explore the docs »</strong></a>
-  </p>
+  <p>Un marco de <a href="http://nodejs.org" target="blank">Node.js</a> framework for building efficient and scalable server-side applications</p>
+  <a href="https://docs.nestjs.com/"><strong>Explore the docs »</strong></a>
+  <p>Introduction Course by <a href="https://github.com/alvarez-p">Esteban Alvarez</a></p>
 </div>
-<p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-<p align="center">
 
 <details>
   <summary>Table of Contents</summary>
@@ -138,3 +137,9 @@ $ docker
 
 <br />
 <p align="center">Made with ❤️ by <a href="https://github.com/alvarez-p">Esteban Alvarez</a></p>
+
+<style type="text/css">
+    img {
+        width: 100px;
+    }
+</style>
