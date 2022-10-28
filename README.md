@@ -98,10 +98,10 @@ $ docker
 ### Class 1
 
 - Introduction to NestJS
-- Lifecycle Events
 - What's inside a NestJS Application
+- Lifecycle Events
 - Controllers
-- Services
+- Providers
 - Modules
 
 ### Class 2
