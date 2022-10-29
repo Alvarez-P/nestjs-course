@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="Nest Logo">
+    <img src="https://nestjs.com/img/logo-small.svg" alt="Nest Logo" width="100px">
   </a>
 </p>
 <div align="center">
@@ -137,9 +137,3 @@ $ docker
 
 <br />
 <p align="center">Made with ❤️ by <a href="https://github.com/alvarez-p">Esteban Alvarez</a></p>
-
-<style type="text/css">
-    img {
-        width: 100px;
-    }
-</style>
